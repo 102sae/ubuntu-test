@@ -1,0 +1,1283 @@
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 08: value too great for base (error token is "08")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+/home/jocker/cron_ex/scripts/cron_frontman.sh: line 5: 09: value too great for base (error token is "09")
+game1: 무궁화 꽃이 피었습니다, five minutes
+game2: Dalgona, ten minutes
+game3: team rope, three minutes
+game4: Gganbu, thirty minutes
+game5: Glass cross, sixteen minutes
+game6: Squid cross, ten minutes 
+game0: survivors 456
+game1: survivors 201
+game2: survivors 143
+game3: survivors 71
+game4: survivors 16
+game5: survivors 3
+game6: survivors 1
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
+game5: Glass cross, sixteen minutes
+game5: survivors 3
+game6: Squid cross, ten minutes 
+game6: survivors 1
+game0: survivors 456
+game1: 무궁화 꽃이 피었습니다, five minutes
+game1: survivors 201
+game2: Dalgona, ten minutes
+game2: survivors 143
+game3: team rope, three minutes
+game3: survivors 71
+game4: Gganbu, thirty minutes
+game4: survivors 16
